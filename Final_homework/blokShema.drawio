@@ -39,7 +39,7 @@
                 <mxCell id="37" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="19" target="36">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="19" value="if (array[i] &amp;lt;=3)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="19" value="if (array[i].Lenght &amp;lt;=3)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="530" y="500" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="30" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="24" target="13">
