@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="Fjyi-mza5Qn6wyGhMhkg" name="Page-1">
-        <mxGraphModel dx="1204" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1204" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#32373D" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -16,8 +16,8 @@
                 <mxCell id="3" value="Ввод размера&lt;br&gt;массива&lt;br&gt;size" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
                     <mxGeometry x="340" y="110" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" value="Ввод элемента массива a&lt;br&gt;a = array [i] + string + a;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-                    <mxGeometry x="520" y="280" width="200" height="60" as="geometry"/>
+                <mxCell id="7" value="Ввод элемента массива a&lt;br&gt;и проверка его на количество символов.&lt;br&gt;a = array [i] + string + a;&lt;br&gt;if(array[i].Lenght &amp;lt;= 3)&lt;br&gt;count++" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="255" width="200" height="110" as="geometry"/>
                 </mxCell>
                 <mxCell id="15" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="13" target="7">
                     <mxGeometry relative="1" as="geometry"/>
@@ -51,7 +51,7 @@
                 <mxCell id="34" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="32" target="33">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="32" value="Вывод массива" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+                <mxCell id="32" value="Вывод массива&lt;br&gt;Введенного массива." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
                     <mxGeometry x="337.5" y="390" width="120" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="35" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="33" target="19">
