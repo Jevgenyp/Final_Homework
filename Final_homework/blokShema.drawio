@@ -63,10 +63,10 @@
                 <mxCell id="33" value="&lt;span&gt;for (int i&amp;nbsp; = 0; i &amp;lt; size; i++)&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="307.5" y="490" width="180" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="36" value="newArray[i] = newArray[i+1]&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="36" value="newArr[j] = array[i]" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="530" y="590" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="38" value="Вывод newArray" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+                <mxCell id="38" value="Вывод newArr" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
                     <mxGeometry x="340" y="600" width="120" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="40" value="да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
